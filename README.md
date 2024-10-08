@@ -1,7 +1,9 @@
 # How to run app locally
 
-- yarn
-- yarn dev
+``` zsh
+yarn
+yarn dev
+```
 
 # Estimated time to complete
 
