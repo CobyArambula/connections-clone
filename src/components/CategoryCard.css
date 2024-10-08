@@ -1,0 +1,32 @@
+.category-card {
+  color: black;
+  padding: 0.5px;
+  margin: 8px auto;
+  width: 100%;
+  min-width: 630px;
+  border-radius: 8px;
+}
+
+h3 {
+  margin-bottom: 4px;
+}
+
+p {
+  margin-top: 0;
+}
+
+.category-card.programming-languages {
+  background-color: #f9df6d;
+}
+
+.category-card.pokemon {
+  background-color: #a0c35a;
+}
+
+.category-card.aws-services {
+  background-color: #b0c4ef;
+}
+
+.category-card.javascript-libraries {
+  background-color: #ba80c5;
+}
